@@ -14,20 +14,20 @@
     "eventDisabled": [],
     "autoClean": true,
     "ACCESSTOKEN": "",
-    "BOTNAME": "Krystal [BETA]",
-    "AMDIN_NAME": "Điền tên bạn vào đây",
-    "FACEBOOK_ADMIN": "https://www.facebook.com/100018277053087",
+    "BOTNAME": "Bot-Vip",
+    "AMDIN_NAME": "Ngô Nhật Long",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/long.ngo.10102006",
     "PREFIX": "/",
     "LOGIN": {
-        "EMAIL": "",
-        "PASSWORD": "",
+        "EMAIL": "ngonhatlongffff@gmail.com",
+        "PASSWORD": "Nhatlong_10102006",
         "OTPKEY": ""
     },
     "ADMINBOT": [
-        "100018277053087"
+        "100070698699374"
     ],
     "NDH": [
-        "100018277053087"
+        "100070698699374"
     ],
     "DATABASE": {
         "sqlite": {
